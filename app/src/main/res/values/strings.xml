@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Crytoken</string>
+
+    <string name="action_settings">Update</string>
+
+    <string name="currency">Coins</string>
+
+    <string name="eth_symbol">1 ETH</string>
+
+    <string name="btc_symbol">1 BTC</string>
+
+    <string name="convert">Convert</string>
+
+    <string name="input_amount">Input Amount</string>
+
+    <string name="no_currency">No data found for this session, try again later.</string>
+
+    <string name="no_internet_connection">No internet connection, connect and try again.</string>
+
+</resources>
